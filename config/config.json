@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x515392A267505B844b958095520dCe934a0229db",
+  "SCAN_LINK": "https://polygonscan.com/address/0x515392A267505B844b958095520dCe934a0229db",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Super Monkey Club NFT",
+  "SYMBOL": "SMC",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 30000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dudes-club-nft-official",
+  "SHOW_BACKGROUND": true
+}
